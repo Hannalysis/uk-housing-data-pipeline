@@ -10,7 +10,7 @@ combine_quarters.py > region_select_east_anglia.py > prepare_region_data.py
 
 # Secondary dataset (ONS Ratio - House price : Residence Based Earnings)
 
-With aff2ratioofhousepricetoresidencebasedearnings.xslx converted to a google sheet and downloaded as 3 CSVs (5a, 5b, 5c):
+With aff2ratioofhousepricetoresidencebasedearnings.xlsx converted to a google sheet and downloaded as 3 CSVs (5a, 5b, 5c):
 
 combine_5a_to_5c.py > filter_year.py > region_and_subregion_select.py > prepare_region_and_subregion_data.py
 
