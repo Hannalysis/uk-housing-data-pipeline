@@ -1,5 +1,10 @@
 # uk-housing-data-pipeline
 
+# Project Supplements
+
+- Primary dataset sourced from https://www.gov.uk/
+- Secondary dataset sourced from https://www.ons.gov.uk/peoplepopulationandcommunity/housing/datasets/
+
 # ETL
 
 # Primary dataset (HM Land Registry Price Paid Data)
