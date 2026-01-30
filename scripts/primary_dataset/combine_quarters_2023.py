@@ -13,10 +13,6 @@ COLUMNS_STANDARD = ['Transaction_ID', 'Price', 'Date of Transfer', 'Postcode', '
            'Old/New', 'Duration', 'PAON', 'SAON', 'Street', 'Locality', 'Town/City', 'District',
            'County', 'PPD Category Type', 'Record Status']
 
-# COLUMNS_Q4 = ['Transaction_ID', 'Price', 'Postcode', 'Property Type',
-#            'Old/New', 'Duration', 'PAON', 'SAON', 'Street', 'Locality', 'Town/City', 'District',
-#            'County', 'PPD Category Type', 'Record Status', 'Date of Transfer'] 
-
 # List to store the collected but unsorted dataframes
 dfs = []
 
