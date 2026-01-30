@@ -13,9 +13,9 @@ COLUMNS_STANDARD = ['Transaction_ID', 'Price', 'Date of Transfer', 'Postcode', '
            'Old/New', 'Duration', 'PAON', 'SAON', 'Street', 'Locality', 'Town/City', 'District',
            'County', 'PPD Category Type', 'Record Status']
 
-COLUMNS_Q4 = ['Transaction_ID', 'Price', 'Postcode', 'Property Type',
-           'Old/New', 'Duration', 'PAON', 'SAON', 'Street', 'Locality', 'Town/City', 'District',
-           'County', 'PPD Category Type', 'Record Status', 'Date of Transfer'] # Note: Date of Transfer is last in Q4 only
+# COLUMNS_Q4 = ['Transaction_ID', 'Price', 'Postcode', 'Property Type',
+#            'Old/New', 'Duration', 'PAON', 'SAON', 'Street', 'Locality', 'Town/City', 'District',
+#            'County', 'PPD Category Type', 'Record Status', 'Date of Transfer'] 
 
 # List to store the collected but unsorted dataframes
 dfs = []
@@ -44,6 +44,35 @@ for i in range(1, 5):
 
 # Combine all quarters into a single dataframe
 combined_df = pd.concat(dfs, ignore_index=True)
+
+# Normalise the Date of Transfer column to the ISO format
+
+d1 = pd.to_datetime(
+    combined_df["Date of Transfer"],
+    format="%m/%d/%Y %H:%M",
+    errors="coerce"
+)
+
+d2 = pd.to_datetime(
+    combined_df["Date of Transfer"],
+    format="%d-%b-%y",
+    errors="coerce"
+)
+
+# Checking whether normalisation was successful
+
+if combined_df["Date of Transfer"].isna().any():
+    bad = combined_df.loc[
+        combined_df["Date of Transfer"].isna(),
+        ["Date of Transfer", "Quarter"]
+    ].head()
+
+    raise ValueError(
+        "Unparsed dates detected after normalization:\n"
+        f"{bad}"
+    )
+
+combined_df["Date of Transfer"] = d1.fillna(d2).dt.normalize()
 
 # Saving to the appropriate processed folder
 combined_df.to_csv(PROJECT_ROOT / "data/processed/primary/combined_Qs.csv", index=False)
