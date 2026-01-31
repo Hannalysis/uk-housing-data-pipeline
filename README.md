@@ -11,7 +11,11 @@
 
 With Q1-Q4 downloaded as a CSV UTF-8:
 
-combine_quarters.py > region_select_east_anglia.py > prepare_region_data.py
+combine_quarters_2023.py* > region_select_east_anglia.py
+
+Note: *2023 required a bespoke combine script as there were misaligned columns in Q4 and different date format in Q2.
+
+Assuming all quarters from other years are utilising the exact same layout of columns, combine_quarters.py would be apt.
 
 # Secondary dataset (ONS Ratio - House price : Residence Based Earnings)
 
