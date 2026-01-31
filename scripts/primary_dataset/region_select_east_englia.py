@@ -2,7 +2,7 @@ import pandas as pd
 from pathlib import Path
 
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
-primary_data_folder = PROJECT_ROOT / "data/processed/primary"
+primary_data_folder = PROJECT_ROOT / "data/fully_processed/primary"
 
 # Load HM Land Registry data
 df = pd.read_csv(primary_data_folder / "combined_Qs.csv")
