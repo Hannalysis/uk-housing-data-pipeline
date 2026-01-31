@@ -48,4 +48,5 @@ df_combined_ons = pd.merge(
 # Saving
 df_combined_ons.to_csv(PROJECT_ROOT / "data/processed/secondary/combined_ONS.csv", index=False)
 
-print("Combined long-format ONS 5b + 5c CSV ready!")
+print("Combined ONS CSV shape:", df_combined_ons.shape)
+print(df_combined_ons.head())
