@@ -1,0 +1,277 @@
+Country/Region code,Country/Region name,Local authority code,Local authority name,year,median_gross_annual_earnings,price_to_earnings_ratio
+E12000006,East of England,E06000031,Peterborough,2013,"23,921",5.73
+E12000006,East of England,E07000008,Cambridge,2013,"31,109",9.64
+E12000006,East of England,E07000009,East Cambridgeshire,2013,"27,578",7.07
+E12000006,East of England,E07000010,Fenland,2013,"24,255",5.31
+E12000006,East of England,E07000011,Huntingdonshire,2013,"28,032",6.60
+E12000006,East of England,E07000012,South Cambridgeshire,2013,"34,307",7.14
+E12000006,East of England,E07000067,Braintree,2013,"30,657",6.20
+E12000006,East of England,E07000071,Colchester,2013,"27,164",6.83
+E12000006,East of England,E07000076,Tendring,2013,"25,481",5.97
+E12000006,East of England,E07000077,Uttlesford,2013,"30,403",9.54
+E12000006,East of England,E07000095,Broxbourne,2013,"31,172",7.60
+E12000006,East of England,E07000143,Breckland,2013,"22,696",6.83
+E12000006,East of England,E07000144,Broadland,2013,"27,834",6.36
+E12000006,East of England,E07000145,Great Yarmouth,2013,"23,266",5.80
+E12000006,East of England,E07000146,King's Lynn and West Norfolk,2013,"23,684",6.54
+E12000006,East of England,E07000147,North Norfolk,2013,"21,829",8.25
+E12000006,East of England,E07000148,Norwich,2013,"23,889",6.15
+E12000006,East of England,E07000149,South Norfolk,2013,"26,167",6.92
+E12000006,East of England,E07000200,Babergh,2013,"25,186",7.54
+E12000006,East of England,E07000202,Ipswich,2013,"24,200",5.64
+E12000006,East of England,E07000203,Mid Suffolk,2013,"27,075",6.54
+E12000006,East of England,E07000244,East Suffolk,2013,"24,785",6.94
+E12000006,East of England,E07000245,West Suffolk,2013,"23,604",7.41
+E12000006,East of England,E06000031,Peterborough,2014,"24,277",6.09
+E12000006,East of England,E07000008,Cambridge,2014,"31,430",10.82
+E12000006,East of England,E07000009,East Cambridgeshire,2014,"27,419",7.48
+E12000006,East of England,E07000010,Fenland,2014,"24,459",5.72
+E12000006,East of England,E07000011,Huntingdonshire,2014,"28,816",6.68
+E12000006,East of England,E07000012,South Cambridgeshire,2014,"33,508",7.76
+E12000006,East of England,E07000067,Braintree,2014,"31,331",6.54
+E12000006,East of England,E07000071,Colchester,2014,"28,280",6.72
+E12000006,East of England,E07000076,Tendring,2014,"25,293",6.33
+E12000006,East of England,E07000077,Uttlesford,2014,"31,019",10.16
+E12000006,East of England,E07000095,Broxbourne,2014,"30,328",8.24
+E12000006,East of England,E07000143,Breckland,2014,"23,264",7.20
+E12000006,East of England,E07000144,Broadland,2014,"26,441",7.19
+E12000006,East of England,E07000145,Great Yarmouth,2014,"24,183",5.67
+E12000006,East of England,E07000146,King's Lynn and West Norfolk,2014,"25,412",6.30
+E12000006,East of England,E07000147,North Norfolk,2014,"24,767",7.75
+E12000006,East of England,E07000148,Norwich,2014,"22,388",6.92
+E12000006,East of England,E07000149,South Norfolk,2014,"27,149",7.00
+E12000006,East of England,E07000200,Babergh,2014,"28,086",7.76
+E12000006,East of England,E07000202,Ipswich,2014,"25,669",5.75
+E12000006,East of England,E07000203,Mid Suffolk,2014,"27,802",6.94
+E12000006,East of England,E07000244,East Suffolk,2014,"26,980",6.67
+E12000006,East of England,E07000245,West Suffolk,2014,"23,663",7.86
+E12000006,East of England,E06000031,Peterborough,2015,"24,028",6.37
+E12000006,East of England,E07000008,Cambridge,2015,"31,345",12.30
+E12000006,East of England,E07000009,East Cambridgeshire,2015,"29,418",7.82
+E12000006,East of England,E07000010,Fenland,2015,"24,727",6.00
+E12000006,East of England,E07000011,Huntingdonshire,2015,"29,051",7.23
+E12000006,East of England,E07000012,South Cambridgeshire,2015,"31,567",9.66
+E12000006,East of England,E07000067,Braintree,2015,"30,722",7.23
+E12000006,East of England,E07000071,Colchester,2015,"28,515",7.36
+E12000006,East of England,E07000076,Tendring,2015,"25,427",6.76
+E12000006,East of England,E07000077,Uttlesford,2015,"32,183",10.25
+E12000006,East of England,E07000095,Broxbourne,2015,"32,000",8.66
+E12000006,East of England,E07000143,Breckland,2015,"23,408",7.56
+E12000006,East of England,E07000144,Broadland,2015,"26,531",7.73
+E12000006,East of England,E07000145,Great Yarmouth,2015,"23,684",6.16
+E12000006,East of England,E07000146,King's Lynn and West Norfolk,2015,"25,131",6.76
+E12000006,East of England,E07000147,North Norfolk,2015,"23,902",8.37
+E12000006,East of England,E07000148,Norwich,2015,"23,817",6.93
+E12000006,East of England,E07000149,South Norfolk,2015,"29,386",6.98
+E12000006,East of England,E07000200,Babergh,2015,"27,757",8.11
+E12000006,East of England,E07000202,Ipswich,2015,"25,995",6.08
+E12000006,East of England,E07000203,Mid Suffolk,2015,"29,488",7.05
+E12000006,East of England,E07000244,East Suffolk,2015,"26,996",7.41
+E12000006,East of England,E07000245,West Suffolk,2015,"25,090",8.33
+E12000006,East of England,E06000031,Peterborough,2016,"24,760",6.46
+E12000006,East of England,E07000008,Cambridge,2016,"31,014",13.38
+E12000006,East of England,E07000009,East Cambridgeshire,2016,"28,252",8.85
+E12000006,East of England,E07000010,Fenland,2016,"26,454",6.05
+E12000006,East of England,E07000011,Huntingdonshire,2016,"29,445",7.64
+E12000006,East of England,E07000012,South Cambridgeshire,2016,"35,425",9.47
+E12000006,East of England,E07000067,Braintree,2016,"31,481",7.94
+E12000006,East of England,E07000071,Colchester,2016,"29,032",7.92
+E12000006,East of England,E07000076,Tendring,2016,"25,818",7.17
+E12000006,East of England,E07000077,Uttlesford,2016,"35,342",10.10
+E12000006,East of England,E07000095,Broxbourne,2016,"32,020",10.15
+E12000006,East of England,E07000143,Breckland,2016,"24,329",8.05
+E12000006,East of England,E07000144,Broadland,2016,"27,525",7.99
+E12000006,East of England,E07000145,Great Yarmouth,2016,"24,446",6.24
+E12000006,East of England,E07000146,King's Lynn and West Norfolk,2016,"26,405",6.91
+E12000006,East of England,E07000147,North Norfolk,2016,"23,266",9.46
+E12000006,East of England,E07000148,Norwich,2016,"25,289",6.80
+E12000006,East of England,E07000149,South Norfolk,2016,"29,934",7.52
+E12000006,East of England,E07000200,Babergh,2016,"28,473",8.78
+E12000006,East of England,E07000202,Ipswich,2016,"26,824",6.15
+E12000006,East of England,E07000203,Mid Suffolk,2016,"26,853",8.38
+E12000006,East of England,E07000244,East Suffolk,2016,"27,782",7.56
+E12000006,East of England,E07000245,West Suffolk,2016,"26,725",8.23
+E12000006,East of England,E06000031,Peterborough,2017,"24,245",7.04
+E12000006,East of England,E07000008,Cambridge,2017,"32,247",13.33
+E12000006,East of England,E07000009,East Cambridgeshire,2017,"30,180",9.08
+E12000006,East of England,E07000010,Fenland,2017,"26,419",6.62
+E12000006,East of England,E07000011,Huntingdonshire,2017,"30,694",8.16
+E12000006,East of England,E07000012,South Cambridgeshire,2017,"35,432",10.30
+E12000006,East of England,E07000067,Braintree,2017,"31,793",8.34
+E12000006,East of England,E07000071,Colchester,2017,"30,923",8.34
+E12000006,East of England,E07000076,Tendring,2017,"27,554",7.98
+E12000006,East of England,E07000077,Uttlesford,2017,"36,704",10.63
+E12000006,East of England,E07000095,Broxbourne,2017,"32,285",10.38
+E12000006,East of England,E07000143,Breckland,2017,"24,050",8.68
+E12000006,East of England,E07000144,Broadland,2017,"27,417",8.70
+E12000006,East of England,E07000145,Great Yarmouth,2017,"24,415",6.76
+E12000006,East of England,E07000146,King's Lynn and West Norfolk,2017,"25,353",7.89
+E12000006,East of England,E07000147,North Norfolk,2017,"24,479",9.60
+E12000006,East of England,E07000148,Norwich,2017,"25,822",7.20
+E12000006,East of England,E07000149,South Norfolk,2017,"27,314",8.91
+E12000006,East of England,E07000200,Babergh,2017,"31,086",8.61
+E12000006,East of England,E07000202,Ipswich,2017,"26,673",6.84
+E12000006,East of England,E07000203,Mid Suffolk,2017,"25,948",9.83
+E12000006,East of England,E07000244,East Suffolk,2017,"27,287",8.43
+E12000006,East of England,E07000245,West Suffolk,2017,"28,543",8.23
+E12000006,East of England,E06000031,Peterborough,2018,"25,250",7.33
+E12000006,East of England,E07000008,Cambridge,2018,"32,980",13.04
+E12000006,East of England,E07000009,East Cambridgeshire,2018,"29,474",9.50
+E12000006,East of England,E07000010,Fenland,2018,"27,708",6.68
+E12000006,East of England,E07000011,Huntingdonshire,2018,"31,760",8.50
+E12000006,East of England,E07000012,South Cambridgeshire,2018,"37,414",9.74
+E12000006,East of England,E07000067,Braintree,2018,"32,464",8.55
+E12000006,East of England,E07000071,Colchester,2018,"30,906",8.80
+E12000006,East of England,E07000076,Tendring,2018,"27,011",8.42
+E12000006,East of England,E07000077,Uttlesford,2018,"34,560",11.89
+E12000006,East of England,E07000095,Broxbourne,2018,"33,541",10.44
+E12000006,East of England,E07000143,Breckland,2018,"26,041",8.58
+E12000006,East of England,E07000144,Broadland,2018,"29,091",8.46
+E12000006,East of England,E07000145,Great Yarmouth,2018,"25,175",6.83
+E12000006,East of England,E07000146,King's Lynn and West Norfolk,2018,"27,216",7.72
+E12000006,East of England,E07000147,North Norfolk,2018,"24,529",10.03
+E12000006,East of England,E07000148,Norwich,2018,"25,247",7.55
+E12000006,East of England,E07000149,South Norfolk,2018,"30,903",8.12
+E12000006,East of England,E07000200,Babergh,2018,"29,634",9.28
+E12000006,East of England,E07000202,Ipswich,2018,"26,941",7.05
+E12000006,East of England,E07000203,Mid Suffolk,2018,"27,479",9.64
+E12000006,East of England,E07000244,East Suffolk,2018,"27,325",8.60
+E12000006,East of England,E07000245,West Suffolk,2018,"28,558",8.68
+E12000006,East of England,E06000031,Peterborough,2019,"27,235",7.16
+E12000006,East of England,E07000008,Cambridge,2019,"34,275",12.69
+E12000006,East of England,E07000009,East Cambridgeshire,2019,"32,182",9.01
+E12000006,East of England,E07000010,Fenland,2019,"27,935",6.80
+E12000006,East of England,E07000011,Huntingdonshire,2019,"31,699",8.68
+E12000006,East of England,E07000012,South Cambridgeshire,2019,"40,052",9.11
+E12000006,East of England,E07000067,Braintree,2019,"33,681",8.61
+E12000006,East of England,E07000071,Colchester,2019,"31,091",8.78
+E12000006,East of England,E07000076,Tendring,2019,"28,786",8.28
+E12000006,East of England,E07000077,Uttlesford,2019,"36,002",11.60
+E12000006,East of England,E07000095,Broxbourne,2019,"33,300",10.51
+E12000006,East of England,E07000143,Breckland,2019,"26,208",8.32
+E12000006,East of England,E07000144,Broadland,2019,"30,717",8.30
+E12000006,East of England,E07000145,Great Yarmouth,2019,"25,942",6.94
+E12000006,East of England,E07000146,King's Lynn and West Norfolk,2019,"27,430",8.02
+E12000006,East of England,E07000147,North Norfolk,2019,"25,724",9.72
+E12000006,East of England,E07000148,Norwich,2019,"26,812",7.16
+E12000006,East of England,E07000149,South Norfolk,2019,"30,393",8.55
+E12000006,East of England,E07000200,Babergh,2019,"31,581",8.87
+E12000006,East of England,E07000202,Ipswich,2019,"28,353",7.05
+E12000006,East of England,E07000203,Mid Suffolk,2019,"29,480",8.82
+E12000006,East of England,E07000244,East Suffolk,2019,"29,687",7.95
+E12000006,East of England,E07000245,West Suffolk,2019,"28,240",8.92
+E12000006,East of England,E06000031,Peterborough,2020,"27,996",7.50
+E12000006,East of England,E07000008,Cambridge,2020,"34,919",12.46
+E12000006,East of England,E07000009,East Cambridgeshire,2020,"32,743",9.29
+E12000006,East of England,E07000010,Fenland,2020,"28,678",6.97
+E12000006,East of England,E07000011,Huntingdonshire,2020,"31,140",9.15
+E12000006,East of England,E07000012,South Cambridgeshire,2020,"38,726",9.81
+E12000006,East of England,E07000067,Braintree,2020,"33,294",8.71
+E12000006,East of England,E07000071,Colchester,2020,"32,523",8.46
+E12000006,East of England,E07000076,Tendring,2020,"28,979",8.35
+E12000006,East of England,E07000077,Uttlesford,2020,"36,479",11.38
+E12000006,East of England,E07000095,Broxbourne,2020,"37,847",9.71
+E12000006,East of England,E07000143,Breckland,2020,"26,582",8.46
+E12000006,East of England,E07000144,Broadland,2020,"32,001",8.00
+E12000006,East of England,E07000145,Great Yarmouth,2020,"28,120",6.67
+E12000006,East of England,E07000146,King's Lynn and West Norfolk,2020,"31,123",7.25
+E12000006,East of England,E07000147,North Norfolk,2020,"27,213",9.55
+E12000006,East of England,E07000148,Norwich,2020,"27,812",7.11
+E12000006,East of England,E07000149,South Norfolk,2020,"30,305",8.58
+E12000006,East of England,E07000200,Babergh,2020,"31,799",8.96
+E12000006,East of England,E07000202,Ipswich,2020,"27,512",7.31
+E12000006,East of England,E07000203,Mid Suffolk,2020,"30,805",8.64
+E12000006,East of England,E07000244,East Suffolk,2020,"30,001",8.25
+E12000006,East of England,E07000245,West Suffolk,2020,"29,477",8.55
+E12000006,East of England,E06000031,Peterborough,2021,"28,644",7.75
+E12000006,East of England,E07000008,Cambridge,2021,"36,868",12.21
+E12000006,East of England,E07000009,East Cambridgeshire,2021,"32,454",10.01
+E12000006,East of England,E07000010,Fenland,2021,"27,148",7.92
+E12000006,East of England,E07000011,Huntingdonshire,2021,"30,521",9.83
+E12000006,East of England,E07000012,South Cambridgeshire,2021,"39,441",10.14
+E12000006,East of England,E07000067,Braintree,2021,"31,900",10.03
+E12000006,East of England,E07000071,Colchester,2021,"30,974",9.91
+E12000006,East of England,E07000076,Tendring,2021,"30,053",8.98
+E12000006,East of England,E07000077,Uttlesford,2021,"36,096",12.33
+E12000006,East of England,E07000095,Broxbourne,2021,"34,609",11.41
+E12000006,East of England,E07000143,Breckland,2021,"26,941",9.37
+E12000006,East of England,E07000144,Broadland,2021,"29,171",9.50
+E12000006,East of England,E07000145,Great Yarmouth,2021,"27,294",7.69
+E12000006,East of England,E07000146,King's Lynn and West Norfolk,2021,"28,124",9.07
+E12000006,East of England,E07000147,North Norfolk,2021,"28,011",10.53
+E12000006,East of England,E07000148,Norwich,2021,"29,175",7.53
+E12000006,East of England,E07000149,South Norfolk,2021,"31,492",9.12
+E12000006,East of England,E07000200,Babergh,2021,"30,000",10.67
+E12000006,East of England,E07000202,Ipswich,2021,"28,244",7.97
+E12000006,East of England,E07000203,Mid Suffolk,2021,"30,000",10.00
+E12000006,East of England,E07000244,East Suffolk,2021,"28,934",9.50
+E12000006,East of England,E07000245,West Suffolk,2021,"29,137",9.61
+E12000006,East of England,E06000031,Peterborough,2022,"30,535",7.70
+E12000006,East of England,E07000008,Cambridge,2022,"38,628",11.97
+E12000006,East of England,E07000009,East Cambridgeshire,2022,"33,299",9.91
+E12000006,East of England,E07000010,Fenland,2022,"31,119",7.46
+E12000006,East of England,E07000011,Huntingdonshire,2022,"32,425",9.87
+E12000006,East of England,E07000012,South Cambridgeshire,2022,"40,012",10.62
+E12000006,East of England,E07000067,Braintree,2022,"36,073",9.30
+E12000006,East of England,E07000071,Colchester,2022,"35,063",8.84
+E12000006,East of England,E07000076,Tendring,2022,"31,520",8.95
+E12000006,East of England,E07000077,Uttlesford,2022,"38,804",12.14
+E12000006,East of England,E07000095,Broxbourne,2022,"38,930",10.66
+E12000006,East of England,E07000143,Breckland,2022,"30,022",8.83
+E12000006,East of England,E07000144,Broadland,2022,"32,042",9.36
+E12000006,East of England,E07000145,Great Yarmouth,2022,"31,284",7.03
+E12000006,East of England,E07000146,King's Lynn and West Norfolk,2022,"29,224",9.07
+E12000006,East of England,E07000147,North Norfolk,2022,"28,783",10.51
+E12000006,East of England,E07000148,Norwich,2022,"31,644",7.21
+E12000006,East of England,E07000149,South Norfolk,2022,"32,647",9.50
+E12000006,East of England,E07000200,Babergh,2022,"31,163",10.75
+E12000006,East of England,E07000202,Ipswich,2022,"29,505",7.93
+E12000006,East of England,E07000203,Mid Suffolk,2022,"33,200",9.64
+E12000006,East of England,E07000244,East Suffolk,2022,"31,394",9.08
+E12000006,East of England,E07000245,West Suffolk,2022,"31,955",9.23
+E12000006,East of England,E06000031,Peterborough,2023,"33,094",7.40
+E12000006,East of England,E07000008,Cambridge,2023,"41,422",11.74
+E12000006,East of England,E07000009,East Cambridgeshire,2023,"36,759",9.66
+E12000006,East of England,E07000010,Fenland,2023,"34,307",6.94
+E12000006,East of England,E07000011,Huntingdonshire,2023,"35,422",9.18
+E12000006,East of England,E07000012,South Cambridgeshire,2023,"42,889",10.26
+E12000006,East of England,E07000067,Braintree,2023,"36,825",9.50
+E12000006,East of England,E07000071,Colchester,2023,"36,252",9.10
+E12000006,East of England,E07000076,Tendring,2023,"33,266",8.81
+E12000006,East of England,E07000077,Uttlesford,2023,"40,740",11.29
+E12000006,East of England,E07000095,Broxbourne,2023,"39,108",11.40
+E12000006,East of England,E07000143,Breckland,2023,"31,934",8.77
+E12000006,East of England,E07000144,Broadland,2023,"34,424",9.27
+E12000006,East of England,E07000145,Great Yarmouth,2023,"32,000",7.19
+E12000006,East of England,E07000146,King's Lynn and West Norfolk,2023,"32,492",8.46
+E12000006,East of England,E07000147,North Norfolk,2023,"28,937",10.71
+E12000006,East of England,E07000148,Norwich,2023,"33,397",7.04
+E12000006,East of England,E07000149,South Norfolk,2023,"34,963",9.01
+E12000006,East of England,E07000200,Babergh,2023,"30,641",11.02
+E12000006,East of England,E07000202,Ipswich,2023,"33,204",7.38
+E12000006,East of England,E07000203,Mid Suffolk,2023,"34,791",9.52
+E12000006,East of England,E07000244,East Suffolk,2023,"34,072",8.66
+E12000006,East of England,E07000245,West Suffolk,2023,"34,439",8.60
+E12000006,East of England,E06000031,Peterborough,2024,"35,566",6.64
+E12000006,East of England,E07000008,Cambridge,2024,"44,793",10.94
+E12000006,East of England,E07000009,East Cambridgeshire,2024,"37,318",9.38
+E12000006,East of England,E07000010,Fenland,2024,"34,864",6.60
+E12000006,East of England,E07000011,Huntingdonshire,2024,"37,102",8.36
+E12000006,East of England,E07000012,South Cambridgeshire,2024,"44,214",9.61
+E12000006,East of England,E07000067,Braintree,2024,"40,437",8.16
+E12000006,East of England,E07000071,Colchester,2024,"38,703",8.27
+E12000006,East of England,E07000076,Tendring,2024,"36,730",7.49
+E12000006,East of England,E07000077,Uttlesford,2024,"47,052",9.35
+E12000006,East of England,E07000095,Broxbourne,2024,"40,907",10.02
+E12000006,East of England,E07000143,Breckland,2024,"32,603",8.07
+E12000006,East of England,E07000144,Broadland,2024,"36,503",7.94
+E12000006,East of England,E07000145,Great Yarmouth,2024,"33,048",6.64
+E12000006,East of England,E07000146,King's Lynn and West Norfolk,2024,"34,690",7.42
+E12000006,East of England,E07000147,North Norfolk,2024,"31,049",9.98
+E12000006,East of England,E07000148,Norwich,2024,"34,603",6.65
+E12000006,East of England,E07000149,South Norfolk,2024,"37,743",7.95
+E12000006,East of England,E07000200,Babergh,2024,"35,750",9.09
+E12000006,East of England,E07000202,Ipswich,2024,"34,873",6.88
+E12000006,East of England,E07000203,Mid Suffolk,2024,"38,551",8.09
+E12000006,East of England,E07000244,East Suffolk,2024,"34,480",8.27
+E12000006,East of England,E07000245,West Suffolk,2024,"35,560",7.94
