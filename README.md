@@ -10,7 +10,7 @@
 The pipeline is designed so that any script can be run independently or as part of the full workflow. At any stage, outputs are analytics-ready and structured for direct ingestion into Tableau. </p>
 
 <br>
-**ℹ Note:** The full pipeline currently focuses on extracting the relevant housing dataset for the East Anglian region, a subregion of the East of England.
+ℹ Note: The full pipeline currently focuses on extracting the relevant housing dataset for the East Anglian region, a subregion of the East of England.
 
 ------------
 
@@ -79,6 +79,7 @@ Assuming all quarters from other years are utilising the exact same layout of co
 | 1    | combine_quarters.py     |     data/raw/primary/YYYY-Q1.csv (to YYYY-Q4)         | data/processed/primary/combined_Qs.csv            |
 | 2    | region_select_east_anglia.py      | combined_Qs.csv     | data/fully_processed/primary/east_anglia_region.csv |
 
+ℹ Note: `combined_Qs.csv` is not present on this remote repository as it is too large, however it can be generated following this process as the raw data is available in this repo. 
 
 # Secondary dataset (ONS Ratio - House price : Residence Based Earnings)
 
