@@ -1,6 +1,6 @@
 <h1 align = "center">UK Housing Data Pipeline</h1>
 
-<p align = "center"><b>Overview</b>: This project contains a mostly modular, incremental Python data pipeline for UK housing analysis, combining HM Land Registry Price Paid Data with ONS affordability ratios (Tables 5b and 5c).
+<p align = "center"><b>Overview</b>: This project contains a mostly modular, incremental Python data pipeline for UK housing analysis, combining HM Land Registry Price Paid Data with ONS affordability ratios (<i>Tables 5b and 5c</i>).
 
 The pipeline is designed so that any script can be run independently or as part of the full workflow. At any stage, outputs are analytics-ready and structured for direct ingestion into Tableau. </p>
 
@@ -67,7 +67,7 @@ pip install -r requirements.txt
 
 With <i>Q1-Q4</i> downloaded as a <i>CSV UTF-8</i>:
 
-combine_quarters_2023.py* > region_select_east_anglia.py
+`combine_quarters_2023.py`* > `region_select_east_anglia.py`
 
 Note: *2023 required a bespoke combine script as there were misaligned columns in Q4 and different date format in Q2.
 
@@ -83,7 +83,7 @@ Assuming all quarters from other years are utilising the exact same layout of co
 
 With <i>aff2ratioofhousepricetoresidencebasedearnings.xlsx</i> converted to a google sheet and downloaded as 2 CSVs (5b & 5c):
 
-combine_5b_to_5c.py > filter_year.py > region_and_subregion_select.py
+`combine_5b_to_5c.py` > `filter_year.py` > `region_and_subregion_select.py`
 
 ...then load both cleaned files into a Tableau workbook
 
@@ -99,6 +99,13 @@ Note: *Where: <br>
 
 # Data Quality
 
+| Check                | Description                                                         | Method                      
+| -------------------- | ------------------------------------------------------------------- | --------------------------- |
+| Column count         | Ensure all expected columns are present in each dataset             | csv_no_of_columns_checker.py          | 
+
+
+Note: A one-time script is also present here: `q_filter_east_anglia_entries.py`<br>
+This is where I first looked at the filtered region data; when I realised that the postcode column was misaligned on the Q4 data, and I needed to create a bespoke `combine_quarters_2023.py` script to correct it.
 
 
 # Author
