@@ -1,6 +1,6 @@
 <h1 align = "center">UK Housing Data Pipeline</h1>
 
-<p align = "center"><b>Overview</b>: This project contains a mostly modular, incremental Python data pipeline for UK housing analysis, combining HM Land Registry Price Paid Data with ONS affordability ratios (<i>Tables 5b and 5c</i>).
+<p align = "center"><b>Overview</b>: This project contains a mostly modular, incremental Python data pipeline for UK housing analysis, combining HM Land Registry Price Paid Data with ONS median house prices and affordability ratios (<i>Tables 5b and 5c</i>).
 
 <p align = "center">
   <img src= "/readme-images/house-icon.jpg"             alt="house-icon-outline"
