@@ -10,7 +10,7 @@ combined_ONS = pd.read_csv(processed_secondary_folder / 'combined_ONS.csv')
 START_YEAR = 2013
 END_YEAR = 2024
 
-# filter for years 2013–2024
+# Filter for the specified year range
 
 combined_ONS['year'] = combined_ONS['year'].astype(int)
 combined_ONS = combined_ONS[(combined_ONS['year'] >= START_YEAR) & (combined_ONS['year'] <= END_YEAR)]
