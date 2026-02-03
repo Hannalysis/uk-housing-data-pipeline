@@ -1,9 +1,8 @@
 import pandas as pd
 
-# Path to your CSV
+# Place any csv path to be checked here
 CSV_FILE = "data/processed/primary/combined_Qs.csv"
 
-# Load CSV
 df = pd.read_csv(CSV_FILE)
 
 # Check for missing values
