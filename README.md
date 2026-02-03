@@ -19,7 +19,7 @@ Assuming all quarters from other years are utilising the exact same layout of co
 
 # Secondary dataset (ONS Ratio - House price : Residence Based Earnings)
 
-With aff2ratioofhousepricetoresidencebasedearnings.xlsx converted to a google sheet and downloaded as 3 CSVs (5a, 5b, 5c):
+With aff2ratioofhousepricetoresidencebasedearnings.xlsx converted to a google sheet and downloaded as 2 CSVs (5b & 5c):
 
 combine_5b_to_5c.py > filter_year.py > region_and_subregion_select.py
 
