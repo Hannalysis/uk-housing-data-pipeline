@@ -59,7 +59,7 @@ pip install -r requirements.txt
     <img src="https://skillicons.dev/icons?i=python,vscode&perline=8" />
   </a>
   <h4><u>Main modules:</u><br/><span style = "font-weight:lighter">pandas</span></h4>
-  <h4><u>Script modules:</u><br/><span style = "font-weight:lighter">pathlib, collections, csv</span></h4>
+  <h4><u>Script modules:</u><br/><span style = "font-weight:lighter">pathlib, collections, csv, logging</span></h4>
 </p>
 
 # ETL
@@ -103,7 +103,9 @@ Note: *Where: <br>
 
 | Check                | Description                                                         | Method                      
 | -------------------- | ------------------------------------------------------------------- | --------------------------- |
-| Column count         | Ensure all expected columns are present in each dataset             | csv_no_of_columns_checker.py          | 
+| Column count         | Ensure all expected columns are present in each dataset             | csv_no_of_columns_checker.py          |
+| Duplicate rows       | Detect duplicate files for the combined datasets             | duplicates_checker.py         | 
+| Missing values       | Identify missing values in any fields & log any to csv | missing_values_checker.py         |   
 
 
 Note: A one-time script is also present here: `q_filter_east_anglia_entries.py`<br>
