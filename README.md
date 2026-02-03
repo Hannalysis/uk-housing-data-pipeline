@@ -2,13 +2,14 @@
 
 <p align = "center"><b>Overview</b>: This project contains a mostly modular, incremental Python data pipeline for UK housing analysis, combining HM Land Registry Price Paid Data with ONS affordability ratios (<i>Tables 5b and 5c</i>).
 
-The pipeline is designed so that any script can be run independently or as part of the full workflow. At any stage, outputs are analytics-ready and structured for direct ingestion into Tableau. </p>
-
 <p align = "center">
   <img src= "/readme-images/house-icon.jpg"             alt="house-icon-outline"
   width="25%"/>
 </p>
 
+The pipeline is designed so that any script can be run independently or as part of the full workflow. At any stage, outputs are analytics-ready and structured for direct ingestion into Tableau. </p>
+
+<br>
 **ℹ Note:** The full pipeline currently focuses on extracting the relevant housing dataset for the East Anglian region, a subregion of the East of England.
 
 ------------
@@ -17,9 +18,9 @@ The pipeline is designed so that any script can be run independently or as part 
 
 
 - [Installation](#installation)
-- [Supplements](#documentation)
+- [Supplements](#project-supplements)
 - [Tech Stack](#tech-stack)
-- [ETL Pipeline](#etl-pipeline)
+- [ETL Pipeline](#etl)
 - [Data Quality](#data-quality)
 - [Author](#author)
 
