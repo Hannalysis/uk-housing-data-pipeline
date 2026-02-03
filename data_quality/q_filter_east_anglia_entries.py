@@ -6,7 +6,7 @@ QUARTER = "Q4"
 
 df = pd.read_csv(CSV_FILE)
 
-# Filter quarterly data for East Anglia region
+# Filter quarterly data
 df_quarter = df[df['Quarter'] == QUARTER]
 
 # Postcode prefixes for East Anglia
