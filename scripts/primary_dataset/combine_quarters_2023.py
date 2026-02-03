@@ -64,7 +64,7 @@ if combined_df["Date of Transfer"].isna().any():
     ].head()
 
     raise ValueError(
-        "Unparsed dates detected after normalization:\n"
+        "Unparsed dates detected after normalisation:\n"
         f"{bad}"
     )
 
